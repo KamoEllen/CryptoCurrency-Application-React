@@ -1,5 +1,9 @@
 {
+  "dependencies": {
+    "react-router-dom": "^6.4.3"
+
   "devDependencies": {
     "tar": "^6.1.12"
+
   }
 }
